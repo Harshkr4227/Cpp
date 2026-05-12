@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Harshkr4227/Cpp/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/Harshkr4227/Cpp/tree/master/0704-binary-search) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshkr4227/Cpp/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshkr4227/Cpp/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
