@@ -19,24 +19,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshkr4227/Cpp/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Harshkr4227/Cpp/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Harshkr4227/Cpp/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Harshkr4227/Cpp/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
