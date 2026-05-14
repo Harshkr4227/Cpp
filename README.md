@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshkr4227/Cpp/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Harshkr4227/Cpp/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Harshkr4227/Cpp/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshkr4227/Cpp/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Math
 |  |
 | ------- |
