@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/Harshkr4227/Cpp/tree/master/0704-binary-search) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshkr4227/Cpp/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshkr4227/Cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshkr4227/Cpp/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Harshkr4227/Cpp/tree/master/3467-transform-array-by-parity) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshkr4227/Cpp/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |
 | ------- |
