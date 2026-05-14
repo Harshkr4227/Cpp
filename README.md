@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshkr4227/Cpp/tree/master/0020-valid-parentheses) |
+| [3794-reverse-string-prefix](https://github.com/Harshkr4227/Cpp/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshkr4227/Cpp/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3794-reverse-string-prefix](https://github.com/Harshkr4227/Cpp/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
