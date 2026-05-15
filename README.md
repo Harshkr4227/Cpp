@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Harshkr4227/Cpp/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harshkr4227/Cpp/tree/master/0066-plus-one) |
 | [1390-four-divisors](https://github.com/Harshkr4227/Cpp/tree/master/1390-four-divisors) |
 | [3790-smallest-all-ones-multiple](https://github.com/Harshkr4227/Cpp/tree/master/3790-smallest-all-ones-multiple) |
