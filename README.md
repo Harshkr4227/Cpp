@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshkr4227/Cpp/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshkr4227/Cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Harshkr4227/Cpp/tree/master/1390-four-divisors) |
+| [1470-shuffle-the-array](https://github.com/Harshkr4227/Cpp/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Harshkr4227/Cpp/tree/master/1929-concatenation-of-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshkr4227/Cpp/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Harshkr4227/Cpp/tree/master/3467-transform-array-by-parity) |
