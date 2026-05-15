@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshkr4227/Cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Harshkr4227/Cpp/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/Harshkr4227/Cpp/tree/master/1470-shuffle-the-array) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Harshkr4227/Cpp/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harshkr4227/Cpp/tree/master/1929-concatenation-of-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshkr4227/Cpp/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Harshkr4227/Cpp/tree/master/3467-transform-array-by-parity) |
@@ -130,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Harshkr4227/Cpp/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harshkr4227/Cpp/tree/master/0066-plus-one) |
 | [1390-four-divisors](https://github.com/Harshkr4227/Cpp/tree/master/1390-four-divisors) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Harshkr4227/Cpp/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harshkr4227/Cpp/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3790-smallest-all-ones-multiple](https://github.com/Harshkr4227/Cpp/tree/master/3790-smallest-all-ones-multiple) |
 ## Simulation
 |  |
 | ------- |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Harshkr4227/Cpp/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harshkr4227/Cpp/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
