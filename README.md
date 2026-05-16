@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Harshkr4227/Cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshkr4227/Cpp/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harshkr4227/Cpp/tree/master/0066-plus-one) |
 | [1390-four-divisors](https://github.com/Harshkr4227/Cpp/tree/master/1390-four-divisors) |
