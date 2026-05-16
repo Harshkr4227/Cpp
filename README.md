@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshkr4227/Cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshkr4227/Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Harshkr4227/Cpp/tree/master/1390-four-divisors) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harshkr4227/Cpp/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Harshkr4227/Cpp/tree/master/1470-shuffle-the-array) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Harshkr4227/Cpp/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harshkr4227/Cpp/tree/master/1929-concatenation-of-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harshkr4227/Cpp/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshkr4227/Cpp/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Harshkr4227/Cpp/tree/master/0059-spiral-matrix-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harshkr4227/Cpp/tree/master/1441-build-an-array-with-stack-operations) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Harshkr4227/Cpp/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harshkr4227/Cpp/tree/master/1929-concatenation-of-array) |
 ## Heap (Priority Queue)
