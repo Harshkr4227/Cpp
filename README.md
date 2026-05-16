@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshkr4227/Cpp/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Harshkr4227/Cpp/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Harshkr4227/Cpp/tree/master/0876-middle-of-the-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/Harshkr4227/Cpp/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Harshkr4227/Cpp/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Harshkr4227/Cpp/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
