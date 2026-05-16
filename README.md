@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshkr4227/Cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harshkr4227/Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/Harshkr4227/Cpp/tree/master/0645-set-mismatch) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshkr4227/Cpp/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Harshkr4227/Cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harshkr4227/Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Harshkr4227/Cpp/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshkr4227/Cpp/tree/master/0876-middle-of-the-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/Harshkr4227/Cpp/tree/master/3794-reverse-string-prefix) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshkr4227/Cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harshkr4227/Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Harshkr4227/Cpp/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshkr4227/Cpp/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
