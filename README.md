@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Harshkr4227/Cpp/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Harshkr4227/Cpp/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshkr4227/Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshkr4227/Cpp/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshkr4227/Cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Harshkr4227/Cpp/tree/master/1390-four-divisors) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
+| [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshkr4227/Cpp/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Harshkr4227/Cpp/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -139,4 +142,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Harshkr4227/Cpp/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harshkr4227/Cpp/tree/master/1929-concatenation-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
