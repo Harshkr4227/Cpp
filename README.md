@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshkr4227/Cpp/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Harshkr4227/Cpp/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Harshkr4227/Cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Harshkr4227/Cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harshkr4227/Cpp/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harshkr4227/Cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshkr4227/Cpp/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harshkr4227/Cpp/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Harshkr4227/Cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1390-four-divisors](https://github.com/Harshkr4227/Cpp/tree/master/1390-four-divisors) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Harshkr4227/Cpp/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harshkr4227/Cpp/tree/master/2894-divisible-and-non-divisible-sums-difference) |
