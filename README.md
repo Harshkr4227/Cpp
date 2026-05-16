@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Harshkr4227/Cpp/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshkr4227/Cpp/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Harshkr4227/Cpp/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Harshkr4227/Cpp/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshkr4227/Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harshkr4227/Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Harshkr4227/Cpp/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshkr4227/Cpp/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3790-smallest-all-ones-multiple](https://github.com/Harshkr4227/Cpp/tree/master/3790-smallest-all-ones-multiple) |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Harshkr4227/Cpp/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
