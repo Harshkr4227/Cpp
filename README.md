@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshkr4227/Cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Harshkr4227/Cpp/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshkr4227/Cpp/tree/master/0485-max-consecutive-ones) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshkr4227/Cpp/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/Harshkr4227/Cpp/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0700-search-in-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
