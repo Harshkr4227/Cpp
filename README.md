@@ -260,5 +260,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Harshkr4227/Cpp/tree/master/0196-delete-duplicate-emails) |
 | [1527-patients-with-a-condition](https://github.com/Harshkr4227/Cpp/tree/master/1527-patients-with-a-condition) |
+| [1667-fix-names-in-a-table](https://github.com/Harshkr4227/Cpp/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Harshkr4227/Cpp/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
