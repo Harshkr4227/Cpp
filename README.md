@@ -255,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/Harshkr4227/Cpp/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
