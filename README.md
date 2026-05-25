@@ -258,5 +258,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1527-patients-with-a-condition](https://github.com/Harshkr4227/Cpp/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/Harshkr4227/Cpp/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
