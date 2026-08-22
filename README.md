@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshkr4227/Cpp/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Harshkr4227/Cpp/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshkr4227/Cpp/tree/master/0033-search-in-rotated-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshkr4227/Cpp/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Harshkr4227/Cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshkr4227/Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Harshkr4227/Cpp/tree/master/0169-majority-element) |
