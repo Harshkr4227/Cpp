@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Harshkr4227/Cpp/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harshkr4227/Cpp/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshkr4227/Cpp/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/Harshkr4227/Cpp/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/Harshkr4227/Cpp/tree/master/1390-four-divisors) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Harshkr4227/Cpp/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harshkr4227/Cpp/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Harshkr4227/Cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Harshkr4227/Cpp/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Harshkr4227/Cpp/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Harshkr4227/Cpp/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -291,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Harshkr4227/Cpp/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harshkr4227/Cpp/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harshkr4227/Cpp/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
