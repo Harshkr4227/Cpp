@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshkr4227/Cpp/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Harshkr4227/Cpp/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Harshkr4227/Cpp/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshkr4227/Cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Harshkr4227/Cpp/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harshkr4227/Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Harshkr4227/Cpp/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Harshkr4227/Cpp/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Harshkr4227/Cpp/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Harshkr4227/Cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harshkr4227/Cpp/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Harshkr4227/Cpp/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
