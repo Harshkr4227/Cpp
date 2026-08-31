@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshkr4227/Cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Harshkr4227/Cpp/tree/master/0901-online-stock-span) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harshkr4227/Cpp/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harshkr4227/Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
@@ -285,9 +286,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Harshkr4227/Cpp/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Harshkr4227/Cpp/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Harshkr4227/Cpp/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Harshkr4227/Cpp/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Harshkr4227/Cpp/tree/master/0933-number-of-recent-calls) |
 ## Binary Search Tree
 |  |
