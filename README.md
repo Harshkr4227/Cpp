@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harshkr4227/Cpp/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshkr4227/Cpp/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshkr4227/Cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harshkr4227/Cpp/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Harshkr4227/Cpp/tree/master/0704-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshkr4227/Cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Harshkr4227/Cpp/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Harshkr4227/Cpp/tree/master/0901-online-stock-span) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harshkr4227/Cpp/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harshkr4227/Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshkr4227/Cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Harshkr4227/Cpp/tree/master/0901-online-stock-span) |
 ## Design
 |  |
