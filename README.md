@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/Harshkr4227/Cpp/tree/master/2596-check-knight-tour-configuration) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshkr4227/Cpp/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Harshkr4227/Cpp/tree/master/3467-transform-array-by-parity) |
+| [3903-smallest-stable-index-i](https://github.com/Harshkr4227/Cpp/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Harshkr4227/Cpp/tree/master/0560-subarray-sum-equals-k) |
+| [3903-smallest-stable-index-i](https://github.com/Harshkr4227/Cpp/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
