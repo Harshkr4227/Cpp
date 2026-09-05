@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshkr4227/Cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Harshkr4227/Cpp/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Harshkr4227/Cpp/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Harshkr4227/Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Harshkr4227/Cpp/tree/master/0901-online-stock-span) |
@@ -306,11 +307,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Harshkr4227/Cpp/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Harshkr4227/Cpp/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Harshkr4227/Cpp/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/Harshkr4227/Cpp/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Harshkr4227/Cpp/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Harshkr4227/Cpp/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/Harshkr4227/Cpp/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
