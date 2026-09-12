@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshkr4227/Cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshkr4227/Cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Harshkr4227/Cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Harshkr4227/Cpp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshkr4227/Cpp/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Harshkr4227/Cpp/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshkr4227/Cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshkr4227/Cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshkr4227/Cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harshkr4227/Cpp/tree/master/0239-sliding-window-maximum) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Harshkr4227/Cpp/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
