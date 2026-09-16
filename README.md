@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Harshkr4227/Cpp/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Harshkr4227/Cpp/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshkr4227/Cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/Harshkr4227/Cpp/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshkr4227/Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Harshkr4227/Cpp/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harshkr4227/Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Harshkr4227/Cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshkr4227/Cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Harshkr4227/Cpp/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshkr4227/Cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Harshkr4227/Cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshkr4227/Cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Harshkr4227/Cpp/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Harshkr4227/Cpp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshkr4227/Cpp/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Harshkr4227/Cpp/tree/master/2596-check-knight-tour-configuration) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Harshkr4227/Cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshkr4227/Cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Harshkr4227/Cpp/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshkr4227/Cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshkr4227/Cpp/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Harshkr4227/Cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harshkr4227/Cpp/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Harshkr4227/Cpp/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Harshkr4227/Cpp/tree/master/0257-binary-tree-paths) |
 ## Algorithm X
 |  |
 | ------- |
