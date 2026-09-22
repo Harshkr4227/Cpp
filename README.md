@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Harshkr4227/Cpp/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harshkr4227/Cpp/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Harshkr4227/Cpp/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harshkr4227/Cpp/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Harshkr4227/Cpp/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harshkr4227/Cpp/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Harshkr4227/Cpp/tree/master/2073-time-needed-to-buy-tickets) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Harshkr4227/Cpp/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Harshkr4227/Cpp/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshkr4227/Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harshkr4227/Cpp/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshkr4227/Cpp/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Harshkr4227/Cpp/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
