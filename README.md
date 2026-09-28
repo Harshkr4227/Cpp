@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Harshkr4227/Cpp/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshkr4227/Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Harshkr4227/Cpp/tree/master/0443-string-compression) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshkr4227/Cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harshkr4227/Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3794-reverse-string-prefix](https://github.com/Harshkr4227/Cpp/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Harshkr4227/Cpp/tree/master/3798-largest-even-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Harshkr4227/Cpp/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Harshkr4227/Cpp/tree/master/0901-online-stock-span) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harshkr4227/Cpp/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshkr4227/Cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harshkr4227/Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshkr4227/Cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshkr4227/Cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
